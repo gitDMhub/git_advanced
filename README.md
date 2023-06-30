@@ -1,2 +1,2 @@
 # git_advanced
-GB seminars on GIT
+GB seminars on GIT homeworks
